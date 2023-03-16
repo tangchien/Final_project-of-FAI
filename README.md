@@ -1,4 +1,3 @@
-# Final_project-of-FAI
 # Foundations of Artificial Intelligence - Final Project --- Texas Hold’em
 
 ### What I do
